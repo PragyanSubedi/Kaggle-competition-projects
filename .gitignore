@@ -1,4 +1,4 @@
 .idea/
-/dogs_vs_cats/train
-/dogs_vs_cats/test
-/dogs_vs_cats/numpy_data
+dogs_vs_cats/train/
+dogs_vs_cats/test/
+dogs_vs_cats/numpy_data/
